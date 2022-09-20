@@ -7,6 +7,7 @@ Users can enlist their items and be able to see other users enlisted items. They
 It is developed using <b>react.js, react-native, redux, redux-saga and react-navigation.</b>
 
 ### ScreenShot:-
+<!-- ![Splash](splash.jpg) -->
 <img src="splash.jpg" width="400">
 <p align="center">Figure : 1 splash screen</p>
 <br />
